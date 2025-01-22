@@ -313,6 +313,9 @@ footer{
         display: flex;
         flex-direction: column;
     }
+    .nav-arrow{
+        display: none;
+    }
    
     
 
